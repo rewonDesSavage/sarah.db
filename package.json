@@ -1,0 +1,21 @@
+{
+  "name": "sarah.db",
+  "version": "1.0.0",
+  "description": "Simple & Fast JSON Database",
+  "main": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "db",
+    "discord",
+    "sarah",
+    "database",
+    "quick.db",
+	"sarahdevs"
+  ],
+  "author": "Sarah+",
+  "license": "MIT"
+}
